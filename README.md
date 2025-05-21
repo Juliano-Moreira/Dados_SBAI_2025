@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/img/swap_station.svg" alt="Swap Station Icon" style="width: 10%; ">
+  <img src=".github/img/swap_station.svg" alt="Swap Station Icon" style="width: 20%; ">
   <br>
   <strong>Repositório de Dados: Engenharia de Features e Aprendizado de Máquina para Predição da Demanda em Estações de Troca de Baterias</strong>
 </div>
