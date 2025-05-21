@@ -46,7 +46,7 @@ Se você utilizar os datasets ou materiais deste repositório em sua pesquisa, p
 Moreira, J. L., Neves, L. S., Medeiros, A., & Rangel, C. A. S. (2025). Engenharia de Features e Aprendizado de Máquina para Predição da Demanda em Estações de Troca de Baterias. *Anais do Simpósio Brasileiro de Automação Inteligente (SBAI)*. (Detalhes a serem confirmados)
 
 **``Este Repositório``:**
-Moreira, J. L., Neves, L. S., Medeiros, A., & Rangel, C. A. S. (2025). *Repositório de Dados: Engenharia de Features e Aprendizado de Máquina para Predição da Demanda em Estações de Troca de Baterias*. GitHub. [Link para o repositório]
+Moreira, J. L., Neves, L. S., Medeiros, A., & Rangel, C. A. S. (2025). *Repositório de Dados: Engenharia de Features e Aprendizado de Máquina para Predição da Demanda em Estações de Troca de Baterias*. GitHub. https://github.com/Juliano-Moreira/Dados_SBAI_2025
 
 ## ✉️ Contato
 Para dúvidas ou mais informações sobre os dados, entre em contato com:
